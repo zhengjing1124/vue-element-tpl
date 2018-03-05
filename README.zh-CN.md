@@ -153,15 +153,4 @@ Detailed changes for each release are documented in the [release notes](https://
 ## Online Demo
 [在线 Demo](http://zhengjing1124.github.io/vue-element-admin)
 
-```## Donate
-如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
-![donate](https://zhengjing1124.github.io/donate/donation.png)
-
-[Paypal Me](https://www.paypal.me/panfree23)
-
-## License
-
-[MIT](https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE)
-```
-
 Copyright (c) 2018-present zhengjing
