@@ -19,13 +19,13 @@
 
 ## 简介
 
-`本项目是一个后台集成解决方案，基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等多功能特性。
+ 本项目是一个后台集成解决方案，基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等多功能特性。
 
 **注意：该项目使用 element-ui@2.0.0+ 版本，所以最低兼容 vue@2.5.0**
 
 ## 准备
 
-你的本地环境需要安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。我们的技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) and [element-ui](https://github.com/ElemeFE/element)，所有的请求数据都使用[Mock.js](https://github.com/nuysoft/Mock)模拟，提前了解和学习这些知识会对使用本项目有很大的帮助。
+你的本地环境需要安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。我们的技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) and [element-ui](https://github.com/ElemeFE/element)。
 
  **本项目并不是一个脚手架，更倾向于是一个集成解决方案**
 
@@ -115,8 +115,5 @@ npm run lint -- --fix
 ```
 
 更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-admin-site/#/deploy)
-
-## Changelog
-Detailed changes for each release are documented in the [release notes](https://github.com/zhengjing1124/vue-element-tpl/releases).
 
 Copyright (c) 2018-present zhengjing
