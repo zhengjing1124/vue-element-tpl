@@ -25,7 +25,7 @@ export default {
   data() {
     return {
       activeName: 'directly',
-      inputData: 'https://github.com/zhengjing1124/vue-element'
+      inputData: 'https://github.com/zhengjing1124/vue-element-tpl'
     }
   },
   methods: {

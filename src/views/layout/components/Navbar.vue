@@ -28,7 +28,7 @@
               {{$t('navbar.dashboard')}}
             </el-dropdown-item>
           </router-link>
-          <a target='_blank' href="https://github.com/zhengjing1124/vue-element/">
+          <a target='_blank' href="https://github.com/zhengjing1124/vue-element-tpl/">
             <el-dropdown-item>
               {{$t('navbar.github')}}
             </el-dropdown-item>

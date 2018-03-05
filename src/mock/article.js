@@ -56,7 +56,7 @@ export default {
     display_time: +new Date(),
     image_uri: 'https://wpimg.wallstcn.com/e4558086-631c-425c-9430-56ffb46e70b3',
     platforms: ['a-platform'],
-    source_uri: 'https://github.com/zhengjing1124/vue-element',
+    source_uri: 'https://github.com/zhengjing1124/vue-element-tpl',
     status: 'published',
     tags: [],
     title: 'vue-element-admin'

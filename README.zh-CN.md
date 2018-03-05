@@ -9,14 +9,14 @@
 	<a href="https://github.com/ElemeFE/element">
 		<img src="https://img.shields.io/badge/element--ui-2.0.8-brightgreen.svg" alt="element-ui">
 	</a>
-	<a href="https://travis-ci.org/zhengjing1124/vue-element" rel="nofollow">
-		<img src="https://travis-ci.org/zhengjing1124/vue-element.svg?branch=master" alt="Build Status">
+	<a href="https://travis-ci.org/zhengjing1124/vue-element-tpl" rel="nofollow">
+		<img src="https://travis-ci.org/zhengjing1124/vue-element-tpl.svg?branch=master" alt="Build Status">
 	</a>
-	<a href="https://github.com/zhengjing1124/vue-element/blob/master/LICENSE">
+	<a href="https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE">
 		<img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
 	</a>
-	<a href="https://github.com/zhengjing1124/vue-element/releases">
-		<img src="https://img.shields.io/github/release/zhengjing1124/vue-element.svg" alt="GitHub release">
+	<a href="https://github.com/zhengjing1124/vue-element-tpl/releases">
+		<img src="https://img.shields.io/github/release/zhengjing1124/vue-element-tpl.svg" alt="GitHub release">
 	</a>
 </p>
 
@@ -30,7 +30,7 @@
 
 - [使用文档](https://zhengjing1124.github.io/vue-element-admin-site/#/)
 
-- [wiki](https://github.com/zhengjing1124/vue-element/wiki)
+- [wiki](https://github.com/zhengjing1124/vue-element-tpl/wiki)
 
 - [donate](https://zhengjing1124.github.io/vue-element-admin-site/#/donate)
 
@@ -60,7 +60,7 @@
 
  **本项目并不是一个脚手架，更倾向于是一个集成解决方案**
 
- **该项目不支持低版本浏览器(如ie)，有需求请自行添加polyfill [详情](https://github.com/zhengjing1124/vue-element/wiki#babel-polyfill)**
+ **该项目不支持低版本浏览器(如ie)，有需求请自行添加polyfill [详情](https://github.com/zhengjing1124/vue-element-tpl/wiki#babel-polyfill)**
 
  <p align="center">
   <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
@@ -108,7 +108,7 @@
 ## 开发
 ```bash
 # 克隆项目
-git clone https://github.com/zhengjing1124/vue-element.git
+git clone https://github.com/zhengjing1124/vue-element-tpl.git
 
 # 安装依赖
 npm install
@@ -148,12 +148,12 @@ npm run lint -- --fix
 更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-admin-site/#/deploy)
 
 ## Changelog
-Detailed changes for each release are documented in the [release notes](https://github.com/zhengjing1124/vue-element/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/zhengjing1124/vue-element-tpl/releases).
 
 ## Online Demo
 [在线 Demo](http://zhengjing1124.github.io/vue-element-admin)
 
-## Donate
+```## Donate
 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
 ![donate](https://zhengjing1124.github.io/donate/donation.png)
 
@@ -161,6 +161,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## License
 
-[MIT](https://github.com/zhengjing1124/vue-element/blob/master/LICENSE)
+[MIT](https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE)
+```
 
-Copyright (c) 2017-present zhengjing
+Copyright (c) 2018-present zhengjing

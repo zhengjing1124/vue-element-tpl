@@ -9,14 +9,14 @@
 	<a href="https://github.com/ElemeFE/element">
 		<img src="https://img.shields.io/badge/element--ui-2.0.8-brightgreen.svg" alt="element-ui">
 	</a>
-	<a href="https://travis-ci.org/zhengjing1124/vue-element" rel="nofollow">
-		<img src="https://travis-ci.org/zhengjing1124/vue-element.svg?branch=master" alt="Build Status">
+	<a href="https://travis-ci.org/zhengjing1124/vue-element-tpl" rel="nofollow">
+		<img src="https://travis-ci.org/zhengjing1124/vue-element-tpl.svg?branch=master" alt="Build Status">
 	</a>
-	<a href="https://github.com/zhengjing1124/vue-element/blob/master/LICENSE">
+	<a href="https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE">
 		<img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
 	</a>
-	<a href="https://github.com/zhengjing1124/vue-element/releases">
-		<img src="https://img.shields.io/github/release/zhengjing1124/vue-element.svg" alt="GitHub release">
+	<a href="https://github.com/zhengjing1124/vue-element-tpl/releases">
+		<img src="https://img.shields.io/github/release/zhengjing1124/vue-element-tpl.svg" alt="GitHub release">
 	</a>
 </p>
 
@@ -30,7 +30,7 @@ English | [简体中文](./README.zh-CN.md)
 
 - [Documentation](https://zhengjing1124.github.io/vue-element-admin-site/#/)
 
-- [wiki](https://github.com/zhengjing1124/vue-element/wiki)
+- [wiki](https://github.com/zhengjing1124/vue-element-tpl/wiki)
 
 - [donate](https://zhengjing1124.github.io/vue-element-admin-site/#/donate)
 
@@ -96,7 +96,7 @@ You need to install [node](http://nodejs.org/) and [git](https://git-scm.com/) l
 
 ```bash
 # clone the project
-git clone https://github.com/zhengjing1124/vue-element.git
+git clone https://github.com/zhengjing1124/vue-element-tpl.git
 
 # install dependency
 npm install
@@ -134,11 +134,12 @@ npm run lint -- --fix
 Refer to [Documentation](https://zhengjing1124.github.io/vue-element-admin-site/#/deploy) for more information
 
 ## Changelog
-Detailed changes for each release are documented in the [release notes](https://github.com/zhengjing1124/vue-element/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/zhengjing1124/vue-element-tpl/releases).
 
 ## Online Demo
 [Preview](http://zhengjing1124.github.io/vue-element-admin)
 
+```
 ## Donate
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
@@ -148,6 +149,7 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 
 ## License
 
-[MIT](https://github.com/zhengjing1124/vue-element/blob/master/LICENSE)
+[MIT](https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE)
+```
 
-Copyright (c) 2017-present zhengjing 
+Copyright (c) 2018-present zhengjing 
