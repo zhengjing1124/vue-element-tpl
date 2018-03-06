@@ -19,9 +19,9 @@
 
 ## 简介
 
- 本项目是一个后台集成解决方案，基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等多功能特性。
+ 本项目是一个后台集成解决方案，基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈、动态路由、权限验证等功能。
 
-**注意：该项目使用 element-ui@2.0.0+ 版本，所以最低兼容 vue@2.5.0**
+**注意：项目使用 element-ui2.0.0+ 版本，所以最低兼容 vue2.5.0**
 
 ## 准备
 
@@ -29,11 +29,14 @@
 
  **本项目并不是一个脚手架，更倾向于是一个集成解决方案**
 
- **该项目不支持低版本浏览器(如ie)，有需求请自行添加polyfill [详情](https://github.com/zhengjing1124/vue-element-tpl/wiki#babel-polyfill)**
+ **该项目不支持低版本浏览器(如ie)，有需求可以添加polyfill，在Node/Browserify/webpack中使用**
+```
+    npm install --save babel-polyfill //下载依赖
+```
 
  <p align="center">
   <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
-</p>
+ </p>
 
 ## 功能
 ```
@@ -43,35 +46,15 @@
 - 动态侧边栏（支持多级路由）
 - 动态面包屑
 - 国际化多语言
-- 多种动态换肤
 - 快捷导航(标签页)
 - 富文本编辑器
-- Markdown编辑器
-- JSON编辑器
-- Screenfull全屏
-- 列表拖拽
-- Svg Sprite 图标
-- Dashboard
-- 本地mock数据
-- Echarts 图表
-- Clipboard(剪贴复制)
 - 401/404错误页面
 - 错误日志
-- 导出excel
-- 导出zip
-- 前端可视化excel
-- 树形table
 - Table example
-- 动态table example
-- 拖拽table example
-- 内联编辑table example
 - Form example
-- 二步登录
-- SplitPane
+- 异步登录
 - Dropzone
-- Sticky
-- CountTo
-- Markdown2html
+待追加...
 ```
 
 ## 开发
