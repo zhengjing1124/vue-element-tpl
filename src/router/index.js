@@ -35,7 +35,7 @@ export const constantRouterMap = [
   {
     path: '',
     component: Layout,
-    redirect: 'dashboard',
+    redirect: '/components/tinymce',
     children: [{
       path: 'dashboard',
       component: _import('dashboard/index'),
