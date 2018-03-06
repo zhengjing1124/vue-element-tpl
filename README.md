@@ -29,7 +29,7 @@
 ```
 
  <p align="center">
-  <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
+  <img width="900" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/tpl.jpg">
  </p>
 
 ## 功能
