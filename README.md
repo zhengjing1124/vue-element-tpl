@@ -9,12 +9,6 @@
 	<a href="https://github.com/ElemeFE/element">
 		<img src="https://img.shields.io/badge/element--ui-2.0.8-brightgreen.svg" alt="element-ui">
 	</a>
-	<a href="https://github.com/zhengjing1124/vue-element-tpl/blob/master/LICENSE">
-		<img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-	</a>
-	<a href="https://github.com/zhengjing1124/vue-element-tpl/releases">
-		<img src="https://img.shields.io/github/release/zhengjing1124/vue-element-tpl.svg" alt="GitHub release">
-	</a>
 </p>
 
 ## 简介
@@ -71,12 +65,12 @@ npm install --registry=https://registry.npm.taobao.org
 # 启动服务
 npm run dev
 ```
-浏览器访问 http://localhost:9527
+浏览器访问 http://localhost:9090
 
 ## 发布
 ```bash
 # 构建测试环境
-npm run build:sit
+npm run build:test
 
 # 构建生成环境
 npm run build:prod
@@ -99,4 +93,4 @@ npm run lint -- --fix
 
 更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-admin-site/#/deploy)
 
-Copyright (c) 2018-present zhengjing
+Copyright (c) 2018 zhengjing1124
