@@ -2,7 +2,7 @@
   <div class="components-container">
     <code>
       {{$t('components.tinymceTips')}}
-      <a target="_blank" class="link-type" href="https://zhengjing1124.github.io/vue-element-admin-site/#/rich-editor"> {{$t('components.documentation')}}</a>
+      <a target="_blank" class="link-type" href="https://www.tinymce.com/docs/"> {{$t('components.documentation')}}</a>
     </code>
     <div>
       <tinymce :height="300" v-model="content"></tinymce>
