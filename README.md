@@ -2,7 +2,7 @@
   <img width="100" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logoa.jpg">
 </p>
 <p align="center">
-  <img width="320" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logob.jpg">
+  <img width="320" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logob.png">
 </p>
 
 <p align="center">
