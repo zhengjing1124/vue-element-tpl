@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" src="https://wpimg.wallstcn.com/ecc53a42-d79b-42e2-8852-5126b810a4c8.svg">
+  <img width="320" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logoa.jpg">
 </p>
 
 <p align="center">
