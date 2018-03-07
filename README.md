@@ -97,7 +97,8 @@ npm run lint -- --fix
 更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-tpl-site/#/deploy)
 
 ## Donate
-如果你觉得这个项目帮助到了你，可以帮我买杯果汁表示鼓励 :
+如果你觉得这个项目帮助到了你，可以帮我买杯果汁表示鼓励:tropical_drink:
 ![donate](https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/alipay.png)
+[Paypal Me](https://www.paypal.me/panfree23)
 
 Copyright (c) 2018 zhengjing1124
