@@ -1,7 +1,7 @@
 <template>
   <div class="icons-container">
     <p class="warn-content">
-      <a href="https://zhengjing1124.github.io/vue-element-admin-site/#/icon" target="_blank">Add and use
+      <a href="https://zhengjing1124.github.io/vue-element-tpl-site/#/icon" target="_blank">Add and use
       </a>
     </p>
     <div class="icons-wrapper">

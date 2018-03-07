@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logoa.jpg">
+  <img width="80" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logoa.jpg">
 </p>
 <p align="center">
   <img width="320" src="https://raw.githubusercontent.com/zhengjing1124/vue-element-tpl/master/src/assets/setting/logo3.png">
@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/vue-2.5.10-brightgreen.svg" alt="vue">
 	</a>
 	<a href="https://github.com/ElemeFE/element">
-		<img src="https://img.shields.io/badge/element--ui-2.0.8-brightgreen.svg" alt="element-ui">
+		<img src="https://img.shields.io/badge/element--ui-2.2.1-brightgreen.svg" alt="element-ui">
 	</a>
 </p>
 
@@ -94,6 +94,6 @@ npm run lint
 npm run lint -- --fix
 ```
 
-更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-admin-site/#/deploy)
+更多信息请参考 [使用文档](https://zhengjing1124.github.io/vue-element-tpl-site/#/deploy)
 
 Copyright (c) 2018 zhengjing1124

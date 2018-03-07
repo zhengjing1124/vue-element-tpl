@@ -59,7 +59,7 @@ export default {
     source_uri: 'https://github.com/zhengjing1124/vue-element-tpl',
     status: 'published',
     tags: [],
-    title: 'vue-element-admin'
+    title: 'vue-element-tpl'
   }),
   createArticle: () => ({
     data: 'success'
