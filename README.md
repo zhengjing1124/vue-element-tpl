@@ -28,7 +28,7 @@
 
  **该项目不支持低版本浏览器(如ie)，有需求可以添加polyfill，在Node/Browserify/webpack中使用**
 ```
-    npm install --save babel-polyfill //下载依赖
+ npm install --save babel-polyfill //下载依赖
 ```
 
  <p align="center">
